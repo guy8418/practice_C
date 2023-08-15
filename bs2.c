@@ -2,18 +2,18 @@
 #include <stdlib.h>
 
 void main(){
-    // //5. The addition, subtraction, multiplication, division of 2 input numbers
-    // int b51;
-    // int b52;
-    // printf("Please input two numbers separeted by space key\n");
-    // scanf("%d %d",&b51,&b52);
+    //5. The addition, subtraction, multiplication, division of 2 input numbers
+    int b51;
+    int b52;
+    printf("Please input two numbers separeted by space key\n");
+    scanf("%d %d",&b51,&b52);
     
-    // printf("The answer to NO.5 are below\n");
-    // printf("\t The sum is %d\n",b51 + b52);
-    // printf("\t The difference is %d\n",b51 - b52);
-    // printf("\t The product is %d\n",b51 * b52);
-    // printf("\t The quotient is %d\n",b51 / b52);
-    // printf("\t The remainder is %d\n",b51 % b52);
+    printf("The answer to NO.5 are below\n");
+    printf("\t The sum is %d\n",b51 + b52);
+    printf("\t The difference is %d\n",b51 - b52);
+    printf("\t The product is %d\n",b51 * b52);
+    printf("\t The quotient is %d\n",b51 / b52);
+    printf("\t The remainder is %d\n",b51 % b52);
 
     //6,7. To show zero if the input is 0  else show nonzero
     int b6;
